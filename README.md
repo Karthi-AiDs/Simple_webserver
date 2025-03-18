@@ -1,6 +1,10 @@
 # EX01 Developing a Simple Webserver
 ## Date: 09/03/2025
 
+## REG NO: 212224230115
+
+## NAME: KARTHIKEYAN D
+
 ## AIM:
 To develop a simple webserver to serve html pages and display the list of students Name ,Regno and Department.
 
